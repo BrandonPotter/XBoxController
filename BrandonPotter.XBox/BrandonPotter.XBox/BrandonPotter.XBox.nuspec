@@ -6,7 +6,7 @@
     <title>XBox Controller Input Library</title>
     <authors>BrandonPotter</authors>
     <owners>BrandonPotter</owners>
-    <licenseUrl></licenseUrl>
+    <licenseUrl>https://github.com/BrandonPotter/XBoxController/blob/master/LICENSE</licenseUrl>
     <projectUrl>http://github.com/BrandonPotter/XBoxController</projectUrl>
     <iconUrl>http://static.brandonpotter.com/Brandon/XBoxIcon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
