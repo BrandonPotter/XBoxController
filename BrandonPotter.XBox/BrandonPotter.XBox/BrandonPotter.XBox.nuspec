@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>XBoxController</id>
+    <version>$version$</version>
+    <title>XBox Controller Input Library</title>
+    <authors>BrandonPotter</authors>
+    <owners>BrandonPotter</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl>http://github.com/BrandonPotter/XBoxController</projectUrl>
+    <iconUrl>http://static.brandonpotter.com/Brandon/XBoxIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple, easy-to-use library for XBox Controller input in .NET</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2015 Brandon Potter</copyright>
+    <tags>xbox controller</tags>
+  </metadata>
+</package>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrandonPotter.XBox", "BrandonPotter.XBox\BrandonPotter.XBox.csproj", "{980C2773-C8E8-4C05-9226-266DF8319928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrandonPotter.XBox.TestConsole", "BrandonPotter.XBox.TestConsole\BrandonPotter.XBox.TestConsole.csproj", "{D7A7215E-EF6D-4A5C-9AF4-22159A95250F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980C2773-C8E8-4C05-9226-266DF8319928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980C2773-C8E8-4C05-9226-266DF8319928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980C2773-C8E8-4C05-9226-266DF8319928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980C2773-C8E8-4C05-9226-266DF8319928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7A7215E-EF6D-4A5C-9AF4-22159A95250F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A7215E-EF6D-4A5C-9AF4-22159A95250F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A7215E-EF6D-4A5C-9AF4-22159A95250F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A7215E-EF6D-4A5C-9AF4-22159A95250F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
